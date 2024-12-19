@@ -21,6 +21,13 @@
 ## Tasks
 
 1. Créer le micro-service customer-service qui permet de gérer les client
+
+![capture1.png](captures/capture1.png)
+
+![capture2.png](captures/capture2.png)
+
+![capture3.png](captures/capture3.png)
+
 2. Créer le micro-service inventory-service qui permet de gérer les produits
 3. Créer la Gateway Spring cloud Gateway
 4. Configuration statique du système de routage
