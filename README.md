@@ -22,6 +22,16 @@
 
 1. Créer le micro-service customer-service qui permet de gérer les client
 
+![Screenshot_1.png](screenshots/Screenshot_1.png)
+
+![Screenshot_2.png](screenshots/Screenshot_2.png)
+
+![Screenshot_3.png](screenshots/Screenshot_3.png)
+
+![Screenshot_4.png](screenshots/Screenshot_4.png)
+
+![Screenshot_5.png](screenshots/Screenshot_5.png)
+
 2. Créer le micro-service inventory-service qui permet de gérer les produits
 
 3. Créer la Gateway Spring cloud Gateway
